@@ -1,0 +1,7 @@
+@CHARSET "utf-8";
+
+.ui-datepicker-calendar .has-event a, 
+.ui-datepicker-calendar .has-event a:hover,
+.ui-datepicker-calendar .has-event .ui-state-active  {
+	border-bottom: 2px solid #969696;
+}
